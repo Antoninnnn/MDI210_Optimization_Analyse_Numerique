@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Browser.java&apos; to &apos;tpt.jms.Sender.java&apos;&#x0A;- Original project: &apos;tp-jms_joram-5-17&apos;&#x0A;- Destination element: &apos;tpt.jms.Sender.java&apos;&#x0A;- Original element: &apos;tpt.jms.Browser.java&apos;" description="Copy compilation unit" destination="/src&lt;tpt.jms{Sender.java" element1="/src&lt;tpt.jms{Browser.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1635332085565" units="1" version="1.0"/>
+</session>

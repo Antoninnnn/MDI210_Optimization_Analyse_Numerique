@@ -1,0 +1,3 @@
+1636533482106	Convert local variable 'test' to field
+1636533618733	Extract local variable 'readObject'
+1636533659093	Extract local variable 'readObject2'
